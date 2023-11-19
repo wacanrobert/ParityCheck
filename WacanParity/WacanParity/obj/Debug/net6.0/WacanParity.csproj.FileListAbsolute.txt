@@ -1,0 +1,14 @@
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\bin\Debug\net6.0\WacanParity.exe
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\bin\Debug\net6.0\WacanParity.deps.json
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\bin\Debug\net6.0\WacanParity.runtimeconfig.json
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\bin\Debug\net6.0\WacanParity.dll
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\bin\Debug\net6.0\WacanParity.pdb
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\WacanParity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\WacanParity.AssemblyInfoInputs.cache
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\WacanParity.AssemblyInfo.cs
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\WacanParity.csproj.CoreCompileInputs.cache
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\WacanParity.dll
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\refint\WacanParity.dll
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\WacanParity.pdb
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\WacanParity.genruntimeconfig.cache
+C:\Users\robert\Downloads\College\4th Year\Networking\repo\WacanParity\WacanParity\obj\Debug\net6.0\ref\WacanParity.dll
